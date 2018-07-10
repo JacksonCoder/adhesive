@@ -1,5 +1,1 @@
-
-
-class Enviroment {
-
-}
+class Enviroment {}
